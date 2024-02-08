@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Derin-09/Derin.git/static/css/main.6194b3c4.css",
+    "main.js": "/Derin-09/Derin.git/static/js/main.e42dc291.js",
+    "static/js/787.3b2d798d.chunk.js": "/Derin-09/Derin.git/static/js/787.3b2d798d.chunk.js",
+    "static/media/picturetwo.jpg": "/Derin-09/Derin.git/static/media/picturetwo.3bc0bf5574aaeab2e9cc.jpg",
+    "static/media/rock-paper-scissors.png": "/Derin-09/Derin.git/static/media/rock-paper-scissors.b2be193dfc8cd7a6c596.png",
+    "index.html": "/Derin-09/Derin.git/index.html",
+    "main.6194b3c4.css.map": "/Derin-09/Derin.git/static/css/main.6194b3c4.css.map",
+    "main.e42dc291.js.map": "/Derin-09/Derin.git/static/js/main.e42dc291.js.map",
+    "787.3b2d798d.chunk.js.map": "/Derin-09/Derin.git/static/js/787.3b2d798d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6194b3c4.css",
+    "static/js/main.e42dc291.js"
+  ]
+}
